@@ -493,6 +493,9 @@
     <string name="abc_shareactionprovider_share_with_application">Share with <ns1:g example="Mail" id="application_name">%s</ns1:g></string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
     <string name="app_name">Palíndromo</string>
+    <string name="eh_palindromo">É um palíndromo? (versão beta, somente palavras)</string>
+    <string name="hint_informe_palavra">Informe aqui a palavra</string>
+    <string name="rotulo_verificar">Verificar</string>
     <string name="search_menu_title">Search</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>

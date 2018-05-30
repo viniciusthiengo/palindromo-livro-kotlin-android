@@ -1,7 +1,0 @@
-#Tue Jun 06 18:45:06 BRT 2017
-base.0=/Users/viniciusthiengo/Desktop/Applications/Palindromo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_38ddb9b101a4a4de9d54f971951d78d628742caf
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=/Users/viniciusthiengo/Desktop/Applications/Palindromo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d244b7542dd6eef8a76a8e1938f2cfa158ea5813/classes.dex
-base.1=/Users/viniciusthiengo/Desktop/Applications/Palindromo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d244b7542dd6eef8a76a8e1938f2cfa158ea5813
-file.0=/Users/viniciusthiengo/Desktop/Applications/Palindromo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_38ddb9b101a4a4de9d54f971951d78d628742caf/classes.dex

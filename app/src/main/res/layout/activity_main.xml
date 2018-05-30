@@ -14,7 +14,7 @@
         android:layout_marginBottom="24dp"
         android:layout_marginTop="32dp"
         android:gravity="center"
-        android:text="É um palíndromo? (versão beta, somente palavras)"
+        android:text="@string/eh_palindromo"
         android:textColor="#ddd"
         android:textSize="24sp" />
 
@@ -24,7 +24,8 @@
         android:layout_height="wrap_content"
         android:layout_below="@+id/tv_titulo"
         android:layout_marginBottom="8dp"
-        android:hint="Informe aqui a palavra"
+        android:hint="@string/hint_informe_palavra"
+        android:inputType="text"
         android:textColor="#ddd"
         android:textColorHint="#888" />
 
@@ -43,7 +44,7 @@
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
         android:background="#306271"
-        android:text="Verificar"
+        android:text="@string/rotulo_verificar"
         android:textColor="#ddd" />
 
 </RelativeLayout>
