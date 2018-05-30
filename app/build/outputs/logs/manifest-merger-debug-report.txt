@@ -1,0 +1,98 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/viniciusthiengo/Desktop/Applications/Palindromo/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/viniciusthiengo/Desktop/Applications/Palindromo/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/viniciusthiengo/Desktop/Applications/Palindromo/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/viniciusthiengo/Desktop/Applications/Palindromo/app/src/main/AndroidManifest.xml:2:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d61e2c13263fa6397516c03d3604f4a2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/e9329b91833fbe01d9ac018cdb2f0101/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/33413044b760872a6753df17fe61e28d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/16ed920d368bff0b84141c9d09f28990/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/ea8e7ba80bf4d6d5218920aa60b982de/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/27d0281fe9276007ed2e80ed7a7fd2f4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/94e4b09cdeabf8d328d24bc4c1dfdac2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/08983a4c94a4b8c92dde714cffeb792d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/e91947f6813e60cae61558d9f728181c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/db21eebf5deca505c791e193716e38b1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/79d70489d563f4ceb6ec4cf9747d267e/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/viniciusthiengo/Desktop/Applications/Palindromo/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/viniciusthiengo/Desktop/Applications/Palindromo/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/viniciusthiengo/Desktop/Applications/Palindromo/app/src/main/AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from /Users/viniciusthiengo/Desktop/Applications/Palindromo/app/src/main/AndroidManifest.xml:3:5-40
+		INJECTED from /Users/viniciusthiengo/Desktop/Applications/Palindromo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/viniciusthiengo/Desktop/Applications/Palindromo/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/viniciusthiengo/Desktop/Applications/Palindromo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/viniciusthiengo/Desktop/Applications/Palindromo/app/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /Users/viniciusthiengo/Desktop/Applications/Palindromo/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/viniciusthiengo/Desktop/Applications/Palindromo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/viniciusthiengo/Desktop/Applications/Palindromo/app/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /Users/viniciusthiengo/Desktop/Applications/Palindromo/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/viniciusthiengo/Desktop/Applications/Palindromo/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/viniciusthiengo/Desktop/Applications/Palindromo/app/src/main/AndroidManifest.xml:5:5-20:19
+	android:supportsRtl
+		ADDED from /Users/viniciusthiengo/Desktop/Applications/Palindromo/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/viniciusthiengo/Desktop/Applications/Palindromo/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/viniciusthiengo/Desktop/Applications/Palindromo/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/viniciusthiengo/Desktop/Applications/Palindromo/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/viniciusthiengo/Desktop/Applications/Palindromo/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/viniciusthiengo/Desktop/Applications/Palindromo/app/src/main/AndroidManifest.xml:11:9-40
+activity#br.com.thiengo.palindromo.MainActivityK
+ADDED from /Users/viniciusthiengo/Desktop/Applications/Palindromo/app/src/main/AndroidManifest.xml:13:9-18:20
+	android:name
+		ADDED from /Users/viniciusthiengo/Desktop/Applications/Palindromo/app/src/main/AndroidManifest.xml:13:19-48
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/viniciusthiengo/Desktop/Applications/Palindromo/app/src/main/AndroidManifest.xml:14:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/viniciusthiengo/Desktop/Applications/Palindromo/app/src/main/AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from /Users/viniciusthiengo/Desktop/Applications/Palindromo/app/src/main/AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/viniciusthiengo/Desktop/Applications/Palindromo/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/viniciusthiengo/Desktop/Applications/Palindromo/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/viniciusthiengo/Desktop/Applications/Palindromo/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/viniciusthiengo/Desktop/Applications/Palindromo/app/src/main/AndroidManifest.xml
+INJECTED from /Users/viniciusthiengo/Desktop/Applications/Palindromo/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d61e2c13263fa6397516c03d3604f4a2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d61e2c13263fa6397516c03d3604f4a2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/e9329b91833fbe01d9ac018cdb2f0101/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/e9329b91833fbe01d9ac018cdb2f0101/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/33413044b760872a6753df17fe61e28d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/33413044b760872a6753df17fe61e28d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/16ed920d368bff0b84141c9d09f28990/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/16ed920d368bff0b84141c9d09f28990/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/ea8e7ba80bf4d6d5218920aa60b982de/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/ea8e7ba80bf4d6d5218920aa60b982de/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/27d0281fe9276007ed2e80ed7a7fd2f4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/27d0281fe9276007ed2e80ed7a7fd2f4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/94e4b09cdeabf8d328d24bc4c1dfdac2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/94e4b09cdeabf8d328d24bc4c1dfdac2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/08983a4c94a4b8c92dde714cffeb792d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/08983a4c94a4b8c92dde714cffeb792d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/e91947f6813e60cae61558d9f728181c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/e91947f6813e60cae61558d9f728181c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/db21eebf5deca505c791e193716e38b1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/db21eebf5deca505c791e193716e38b1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/79d70489d563f4ceb6ec4cf9747d267e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/79d70489d563f4ceb6ec4cf9747d267e/AndroidManifest.xml:20:5-44
+INJECTED from /Users/viniciusthiengo/Desktop/Applications/Palindromo/app/src/main/AndroidManifest.xml
+INJECTED from /Users/viniciusthiengo/Desktop/Applications/Palindromo/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/viniciusthiengo/Desktop/Applications/Palindromo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/viniciusthiengo/Desktop/Applications/Palindromo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/viniciusthiengo/Desktop/Applications/Palindromo/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/viniciusthiengo/Desktop/Applications/Palindromo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/viniciusthiengo/Desktop/Applications/Palindromo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/viniciusthiengo/Desktop/Applications/Palindromo/app/src/main/AndroidManifest.xml
